@@ -1,6 +1,6 @@
 # Estágio Target Sistemas
 
-Este repositório contém as soluções dos desafios propostos no processo seletivo da Target Sistemas. A linguagem utilizada foi **Node.js**.
+Este repositório contém as soluções dos desafios propostos no processo seletivo da Target Sistemas. A linguagem utilizada foi **JavaScript**.
 
 ## Desafios e Soluções
 
